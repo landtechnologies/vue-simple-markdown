@@ -88,10 +88,13 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped>
+<style lang="sass" scoped>
 @import '~github-markdown-css/github-markdown.css';
 
 .vue-simple-markdown {
   white-space: pre-wrap;
+}
+.markdown-body{
+  font-size: 14px;
 }
 </style>

@@ -1,3 +1,6 @@
+# Notes on this Landinsight Fork
+Has removed syntax highlighting to make the component more lightweight.
+
 # VueSimpleMarkdown
 
 [![npm](https://img.shields.io/npm/v/vue-simple-markdown.svg)](https://www.npmjs.com/package/vue-simple-markdown) [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)

@@ -7,12 +7,10 @@ import { HorizontalLine } from './horizontal-line'
 import { Lists } from './lists'
 import { Emoji } from './emoji'
 import { InlineCode } from './inline-code'
-import { Highlight } from './highlight'
 import { Linkify } from './linkify'
 import { Quote } from './quote'
 
 const RULES = [
-  Highlight,
   InlineCode,
   HorizontalLine,
   Lists,
@@ -29,7 +27,6 @@ const RULES = [
 
 export {
   RULES,
-  Highlight,
   InlineCode,
   HorizontalLine,
   Lists,

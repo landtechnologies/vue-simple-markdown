@@ -1,5 +1,6 @@
 # Notes on this Landinsight Fork
 Has removed syntax highlighting to make the component more lightweight.
+**DO NOT USE THIS** it sacrifises too much in terms of markdown support and security for the sake of being lightweight. We use marked.js instead (which is about 10kB gziped).
 
 # VueSimpleMarkdown
 
